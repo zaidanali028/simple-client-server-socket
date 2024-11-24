@@ -210,7 +210,7 @@ Initializes the chat client with server details and message color.
 6. Message encryption
 7. GUI interface
 
-[Previous sections remain exactly the same until the License section...]
+
 
 ## Screenshots
 
@@ -226,7 +226,6 @@ Multiple clients connected to the server with different colored messages
 ![Chat Session](demo-images/active_chat_session.png)
 An active chat session showing message broadcasting and color formatting
 
-
 ## License
 
-This script is provided "as-is" without any warranties or guarantees. Please test carefully in your environment.
+This project is licensed under the MIT License - see the [MIT](LICENSE) file for details.
