@@ -229,4 +229,4 @@ An active chat session showing message broadcasting and color formatting
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This script is provided "as-is" without any warranties or guarantees. Please test carefully in your environment.
